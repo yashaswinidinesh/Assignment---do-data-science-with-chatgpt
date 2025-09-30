@@ -1,5 +1,5 @@
- Read the full detailed report: https://medium.com/@yashaswini.dinesh/crisp-dm-record-cardiac-failure-death-rate-prediction-a5eafc2afe3e
-Methodology (CRISP-DM)
+Read the full detailed report: https://medium.com/@yashaswini.dinesh/crisp-dm-record-cardiac-failure-death-rate-prediction-a5eafc2afe3e
+Methodology (CRISP_DM)
 
 Phase 1 — Business & Data Understanding
 
